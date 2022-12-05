@@ -1,0 +1,17 @@
+C:\Users\ADMIN\Desktop\Стажа\GameOfLife\GameOfLife\obj\Debug\net6.0-windows\GameOfLife.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Стажа\GameOfLife\GameOfLife\obj\Debug\net6.0-windows\GameOfLife.Form1.resources
+C:\Users\ADMIN\Desktop\Стажа\GameOfLife\GameOfLife\obj\Debug\net6.0-windows\GameOfLife.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Стажа\GameOfLife\GameOfLife\obj\Debug\net6.0-windows\GameOfLife.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Стажа\GameOfLife\GameOfLife\obj\Debug\net6.0-windows\GameOfLife.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Стажа\GameOfLife\GameOfLife\obj\Debug\net6.0-windows\GameOfLife.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Стажа\GameOfLife\GameOfLife\obj\Debug\net6.0-windows\GameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Стажа\GameOfLife\GameOfLife\bin\Debug\net6.0-windows\GameOfLife.exe
+C:\Users\ADMIN\Desktop\Стажа\GameOfLife\GameOfLife\bin\Debug\net6.0-windows\GameOfLife.deps.json
+C:\Users\ADMIN\Desktop\Стажа\GameOfLife\GameOfLife\bin\Debug\net6.0-windows\GameOfLife.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Стажа\GameOfLife\GameOfLife\bin\Debug\net6.0-windows\GameOfLife.dll
+C:\Users\ADMIN\Desktop\Стажа\GameOfLife\GameOfLife\bin\Debug\net6.0-windows\GameOfLife.pdb
+C:\Users\ADMIN\Desktop\Стажа\GameOfLife\GameOfLife\obj\Debug\net6.0-windows\GameOfLife.dll
+C:\Users\ADMIN\Desktop\Стажа\GameOfLife\GameOfLife\obj\Debug\net6.0-windows\refint\GameOfLife.dll
+C:\Users\ADMIN\Desktop\Стажа\GameOfLife\GameOfLife\obj\Debug\net6.0-windows\GameOfLife.pdb
+C:\Users\ADMIN\Desktop\Стажа\GameOfLife\GameOfLife\obj\Debug\net6.0-windows\GameOfLife.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\Стажа\GameOfLife\GameOfLife\obj\Debug\net6.0-windows\ref\GameOfLife.dll
