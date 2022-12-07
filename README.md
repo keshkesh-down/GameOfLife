@@ -1,5 +1,6 @@
 # GameOfLife
 Simulation of life on C#.
+
 **LBM** - activate life on the cell
 
 **RBM** - deactivate life on the cell
