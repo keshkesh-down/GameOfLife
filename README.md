@@ -1,5 +1,5 @@
 # GameOfLife
-Simulation of life on C#.
+Simulation of life on C#/WinForm.
 
 **LBM** - activate life on the cell
 
