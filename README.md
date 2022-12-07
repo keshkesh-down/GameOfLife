@@ -5,5 +5,4 @@ Simulation of life on C#.
 
 **RBM** - deactivate life on the cell
 
-![unknown-20221206-0148_fdETE5Rw-_online-video-cutter com_](https://user-images.githubusercontent.com/58878384/205763916-95312701-9b8d-4397-b5cf-66d6638e4703.gif)
-![unknown-20221206-0148_fdETE5Rw (online-video-cutter com)](https://user-images.githubusercontent.com/58878384/206263287-bcbf281e-444c-4873-9c92-251996ccbcd7.gif)
+![Последовательность 01](https://user-images.githubusercontent.com/58878384/206270882-ce3cad2f-04e8-4ceb-b2e6-4a6a64d52ada.gif)
